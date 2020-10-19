@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-19T20:06:07.119+03:00
-  initializedAtString: 2020-10-19T20:06:07.119+03:00
+  lastUpdatedAtString: 2020-10-19T23:30:46.899+03:00
+  initializedAtString: 2020-10-19T23:30:46.899+03:00
   currentGitRemote:
     name: origin
-    url: "\x96\x96https://github.com/kahveciozan/aaReplica.git"
+    url: https://github.com/kahveciozan/aaReplica.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: 
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: main
+    name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/kahveciozan/aaReplica.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: "\x96\x96https://github.com/kahveciozan/aaReplica.git"
+    url: https://github.com/kahveciozan/aaReplica.git
   currentHead: 
