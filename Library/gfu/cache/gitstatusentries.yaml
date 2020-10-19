@@ -1,0 +1,1428 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-10-19T20:03:07.476+03:00
+  initializedAtString: 2020-10-19T20:03:07.476+03:00
+  entries:
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\08\080b0007b4f0c78ee1689032af659360
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\08\080b0007b4f0c78ee1689032af659360
+    projectPath: Library\Artifacts\08\080b0007b4f0c78ee1689032af659360
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\11af216e91207adb3295b06ee763176b
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\11\11af216e91207adb3295b06ee763176b
+    projectPath: Library\Artifacts\11\11af216e91207adb3295b06ee763176b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\12\1284346919fe610d589d6d09944352b2
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\12\1284346919fe610d589d6d09944352b2
+    projectPath: Library\Artifacts\12\1284346919fe610d589d6d09944352b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1a\1af6d4d061a7a286868458679459ed9c
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\1a\1af6d4d061a7a286868458679459ed9c
+    projectPath: Library\Artifacts\1a\1af6d4d061a7a286868458679459ed9c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    projectPath: Library\Artifacts\1e\1eaacb25867d2601eab1faeab77e41ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\22cc357b86514cdbde301d2328c1a3fb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\22\22cc357b86514cdbde301d2328c1a3fb
+    projectPath: Library\Artifacts\22\22cc357b86514cdbde301d2328c1a3fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\34\343f5c9562588728ff681eb49699686d
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\34\343f5c9562588728ff681eb49699686d
+    projectPath: Library\Artifacts\34\343f5c9562588728ff681eb49699686d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\39\39a7669f1aaa7cc1b89d956ae9259c20
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\39\39a7669f1aaa7cc1b89d956ae9259c20
+    projectPath: Library\Artifacts\39\39a7669f1aaa7cc1b89d956ae9259c20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3b\3b51e2609cabf8f9f7bf43bfba95e0dc
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\3b\3b51e2609cabf8f9f7bf43bfba95e0dc
+    projectPath: Library\Artifacts\3b\3b51e2609cabf8f9f7bf43bfba95e0dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3c9d6154d7dbc8d5ab5b903520b8d5db
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\3c\3c9d6154d7dbc8d5ab5b903520b8d5db
+    projectPath: Library\Artifacts\3c\3c9d6154d7dbc8d5ab5b903520b8d5db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\40\406140f8baee1340d59ba845b208996f
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\40\406140f8baee1340d59ba845b208996f
+    projectPath: Library\Artifacts\40\406140f8baee1340d59ba845b208996f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\41\41816b07a77107638e42d709e9c08d31
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\41\41816b07a77107638e42d709e9c08d31
+    projectPath: Library\Artifacts\41\41816b07a77107638e42d709e9c08d31
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4c\4ca09afcf936e07e1a4c2a85ea5eb127
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\4c\4ca09afcf936e07e1a4c2a85ea5eb127
+    projectPath: Library\Artifacts\4c\4ca09afcf936e07e1a4c2a85ea5eb127
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    projectPath: Library\Artifacts\4e\4eca8f62d30c286927bdb6737cd56210
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
+    projectPath: Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\57\5776e9e4923f95dfa740c9b154cea98f
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\57\5776e9e4923f95dfa740c9b154cea98f
+    projectPath: Library\Artifacts\57\5776e9e4923f95dfa740c9b154cea98f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5d\5df56a3f40bf031835b2a8be251cb392
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\5d\5df56a3f40bf031835b2a8be251cb392
+    projectPath: Library\Artifacts\5d\5df56a3f40bf031835b2a8be251cb392
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5f0d04ac00990d5d9a1517b696132f69
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\5f\5f0d04ac00990d5d9a1517b696132f69
+    projectPath: Library\Artifacts\5f\5f0d04ac00990d5d9a1517b696132f69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5f\5fc388c6fa69ed78a6fc442502cdc58f
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\5f\5fc388c6fa69ed78a6fc442502cdc58f
+    projectPath: Library\Artifacts\5f\5fc388c6fa69ed78a6fc442502cdc58f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\64\64cdd895a61c7403a1ed449ea4e5b2f0
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\64\64cdd895a61c7403a1ed449ea4e5b2f0
+    projectPath: Library\Artifacts\64\64cdd895a61c7403a1ed449ea4e5b2f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\6798c2c4f7f716d1c02519705241b8e2
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\67\6798c2c4f7f716d1c02519705241b8e2
+    projectPath: Library\Artifacts\67\6798c2c4f7f716d1c02519705241b8e2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    projectPath: Library\Artifacts\67\679b72b5ed8a469142db741c5f171991
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6a\6a2876cc553a437f912081b9d7920090
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\6a\6a2876cc553a437f912081b9d7920090
+    projectPath: Library\Artifacts\6a\6a2876cc553a437f912081b9d7920090
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\71d976d2266747ff692b9d88a3aff526
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\71\71d976d2266747ff692b9d88a3aff526
+    projectPath: Library\Artifacts\71\71d976d2266747ff692b9d88a3aff526
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\73\730bcaaf32205df69d060619e586f080
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\73\730bcaaf32205df69d060619e586f080
+    projectPath: Library\Artifacts\73\730bcaaf32205df69d060619e586f080
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    projectPath: Library\Artifacts\7b\7bdb83d8583109bb63413d179822c28c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\87\8761c8c4afa983d0bde74723aa3d3eb5
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\87\8761c8c4afa983d0bde74723aa3d3eb5
+    projectPath: Library\Artifacts\87\8761c8c4afa983d0bde74723aa3d3eb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8a\8abebd8eeeaf53d06123936464843fe5
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\8a\8abebd8eeeaf53d06123936464843fe5
+    projectPath: Library\Artifacts\8a\8abebd8eeeaf53d06123936464843fe5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\92\9216d327c035ccf868838aad095883ee
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\92\9216d327c035ccf868838aad095883ee
+    projectPath: Library\Artifacts\92\9216d327c035ccf868838aad095883ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ba\bae272b137e49a4dd3e82ec72d31a33b
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\ba\bae272b137e49a4dd3e82ec72d31a33b
+    projectPath: Library\Artifacts\ba\bae272b137e49a4dd3e82ec72d31a33b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bf85939c1411ff2ec734b81e60fff3af
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\bf\bf85939c1411ff2ec734b81e60fff3af
+    projectPath: Library\Artifacts\bf\bf85939c1411ff2ec734b81e60fff3af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bf\bfb4bb28e809a76adb68eee8ba612ded
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\bf\bfb4bb28e809a76adb68eee8ba612ded
+    projectPath: Library\Artifacts\bf\bfb4bb28e809a76adb68eee8ba612ded
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    projectPath: Library\Artifacts\c6\c688b5df1e7176db35e1f357fd19d51c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cb\cb58604587ea59cf6137dbba14a78053
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\cb\cb58604587ea59cf6137dbba14a78053
+    projectPath: Library\Artifacts\cb\cb58604587ea59cf6137dbba14a78053
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cff36703c8687c5a8e186a681fbc4977
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\cf\cff36703c8687c5a8e186a681fbc4977
+    projectPath: Library\Artifacts\cf\cff36703c8687c5a8e186a681fbc4977
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d476b192889980369b7dbf0b19467935
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\d4\d476b192889980369b7dbf0b19467935
+    projectPath: Library\Artifacts\d4\d476b192889980369b7dbf0b19467935
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e2\e23fcbc619092d8935fac289170edf56
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\e2\e23fcbc619092d8935fac289170edf56
+    projectPath: Library\Artifacts\e2\e23fcbc619092d8935fac289170edf56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\e2\e2f476606a0624c5f3e4b1c6e30c1546
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\e2\e2f476606a0624c5f3e4b1c6e30c1546
+    projectPath: Library\Artifacts\e2\e2f476606a0624c5f3e4b1c6e30c1546
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ec\ec5bd397a3e779826615ab5d5bbf6278
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\ec\ec5bd397a3e779826615ab5d5bbf6278
+    projectPath: Library\Artifacts\ec\ec5bd397a3e779826615ab5d5bbf6278
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fe\fef9ed150d22da51690fbd4629b67c12
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\Artifacts\fe\fef9ed150d22da51690fbd4629b67c12
+    projectPath: Library\Artifacts\fe\fef9ed150d22da51690fbd4629b67c12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\PsdPlugin.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\PsdPlugin.dll
+    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\PsdPlugin.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\PsdPlugin.pdb
+    projectPath: Library\ScriptAssemblies\PsdPlugin.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Mathematics.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Mathematics.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Mathematics.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Mathematics.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-01c8ebe18f8cc0b4599b2850aa97a7a5
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-01c8ebe18f8cc0b4599b2850aa97a7a5
+    projectPath: Temp\UnityTempFile-01c8ebe18f8cc0b4599b2850aa97a7a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-074221027031f8b41b9a375c91c2612a
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-074221027031f8b41b9a375c91c2612a
+    projectPath: Temp\UnityTempFile-074221027031f8b41b9a375c91c2612a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0ab686e8e35863146a80af34cfd94265
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-0ab686e8e35863146a80af34cfd94265
+    projectPath: Temp\UnityTempFile-0ab686e8e35863146a80af34cfd94265
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0d525da14e649f242a448c0c6dcced90
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-0d525da14e649f242a448c0c6dcced90
+    projectPath: Temp\UnityTempFile-0d525da14e649f242a448c0c6dcced90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0e368689c81db674a992b39eb2c10b63
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-0e368689c81db674a992b39eb2c10b63
+    projectPath: Temp\UnityTempFile-0e368689c81db674a992b39eb2c10b63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-114dc3d7f5228da44b7f34d2b7168b54
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-114dc3d7f5228da44b7f34d2b7168b54
+    projectPath: Temp\UnityTempFile-114dc3d7f5228da44b7f34d2b7168b54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-115e08d5d353aa44c959ef12a905d8f1
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-115e08d5d353aa44c959ef12a905d8f1
+    projectPath: Temp\UnityTempFile-115e08d5d353aa44c959ef12a905d8f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1225ac816b04cd944a88aa33f2b3baf1
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-1225ac816b04cd944a88aa33f2b3baf1
+    projectPath: Temp\UnityTempFile-1225ac816b04cd944a88aa33f2b3baf1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-131302c140340b74b91bae5fa695e9f7
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-131302c140340b74b91bae5fa695e9f7
+    projectPath: Temp\UnityTempFile-131302c140340b74b91bae5fa695e9f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-13b1ebf0090c0e84fbd975d3b7d87a26
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-13b1ebf0090c0e84fbd975d3b7d87a26
+    projectPath: Temp\UnityTempFile-13b1ebf0090c0e84fbd975d3b7d87a26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-21d714b99c74b434f9ffeac57a284b7a
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-21d714b99c74b434f9ffeac57a284b7a
+    projectPath: Temp\UnityTempFile-21d714b99c74b434f9ffeac57a284b7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-22895a150299bc341bd47fc60005586c
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-22895a150299bc341bd47fc60005586c
+    projectPath: Temp\UnityTempFile-22895a150299bc341bd47fc60005586c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-341b1b55c1539ff48bd674c0410d2043
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-341b1b55c1539ff48bd674c0410d2043
+    projectPath: Temp\UnityTempFile-341b1b55c1539ff48bd674c0410d2043
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3909e6a42be9dde4da57d4a1f8dc2d6d
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-3909e6a42be9dde4da57d4a1f8dc2d6d
+    projectPath: Temp\UnityTempFile-3909e6a42be9dde4da57d4a1f8dc2d6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-3a663bf51b6fcc54aa79c2bbd8a3ea5d
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-3a663bf51b6fcc54aa79c2bbd8a3ea5d
+    projectPath: Temp\UnityTempFile-3a663bf51b6fcc54aa79c2bbd8a3ea5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4122a37c623c7714184732f179f0df02
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-4122a37c623c7714184732f179f0df02
+    projectPath: Temp\UnityTempFile-4122a37c623c7714184732f179f0df02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-452b1f27b2b12b347a31f9b2eca0922d
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-452b1f27b2b12b347a31f9b2eca0922d
+    projectPath: Temp\UnityTempFile-452b1f27b2b12b347a31f9b2eca0922d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4ee01ce4c40db23458696a594281a4ae
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-4ee01ce4c40db23458696a594281a4ae
+    projectPath: Temp\UnityTempFile-4ee01ce4c40db23458696a594281a4ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-55ba7daf3d6d64644ae1220dc30a5687
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-55ba7daf3d6d64644ae1220dc30a5687
+    projectPath: Temp\UnityTempFile-55ba7daf3d6d64644ae1220dc30a5687
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-658827b2347777a419cbd76a5d17a1e8
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-658827b2347777a419cbd76a5d17a1e8
+    projectPath: Temp\UnityTempFile-658827b2347777a419cbd76a5d17a1e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c071472f0d29d345af908f7ce09c195
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-6c071472f0d29d345af908f7ce09c195
+    projectPath: Temp\UnityTempFile-6c071472f0d29d345af908f7ce09c195
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6dab3617c5d661740b0774a967a12966
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-6dab3617c5d661740b0774a967a12966
+    projectPath: Temp\UnityTempFile-6dab3617c5d661740b0774a967a12966
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6e57524b0ce22194b9740c772ecef202
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-6e57524b0ce22194b9740c772ecef202
+    projectPath: Temp\UnityTempFile-6e57524b0ce22194b9740c772ecef202
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7170e4081f01e2544a2c4178047b94fa
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-7170e4081f01e2544a2c4178047b94fa
+    projectPath: Temp\UnityTempFile-7170e4081f01e2544a2c4178047b94fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-78e4c64a022ac9a45bd96d5e652deeb8
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-78e4c64a022ac9a45bd96d5e652deeb8
+    projectPath: Temp\UnityTempFile-78e4c64a022ac9a45bd96d5e652deeb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7b315738c0ab4d74293c3f1952c7f16d
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-7b315738c0ab4d74293c3f1952c7f16d
+    projectPath: Temp\UnityTempFile-7b315738c0ab4d74293c3f1952c7f16d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7d940cbaa84e9d1498b15ee8226222bc
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-7d940cbaa84e9d1498b15ee8226222bc
+    projectPath: Temp\UnityTempFile-7d940cbaa84e9d1498b15ee8226222bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7ece40b467b013540887535dfd2da55c
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-7ece40b467b013540887535dfd2da55c
+    projectPath: Temp\UnityTempFile-7ece40b467b013540887535dfd2da55c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-80893b82fb85b0249b49a6fa0e83ecbb
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-80893b82fb85b0249b49a6fa0e83ecbb
+    projectPath: Temp\UnityTempFile-80893b82fb85b0249b49a6fa0e83ecbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-81064c12503e0904480841183c2cbc8a
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-81064c12503e0904480841183c2cbc8a
+    projectPath: Temp\UnityTempFile-81064c12503e0904480841183c2cbc8a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-855ed446a73381247b80ef34b6e5d776
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-855ed446a73381247b80ef34b6e5d776
+    projectPath: Temp\UnityTempFile-855ed446a73381247b80ef34b6e5d776
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8807121e4f2a39046ae9bf876f9e7d06
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-8807121e4f2a39046ae9bf876f9e7d06
+    projectPath: Temp\UnityTempFile-8807121e4f2a39046ae9bf876f9e7d06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8a54df5087ef3634793ae25217c2156c
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-8a54df5087ef3634793ae25217c2156c
+    projectPath: Temp\UnityTempFile-8a54df5087ef3634793ae25217c2156c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8b3849048cd69b94e9df3e7a94eb25c2
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-8b3849048cd69b94e9df3e7a94eb25c2
+    projectPath: Temp\UnityTempFile-8b3849048cd69b94e9df3e7a94eb25c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8f167079c5bce7947b63056b28331e46
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-8f167079c5bce7947b63056b28331e46
+    projectPath: Temp\UnityTempFile-8f167079c5bce7947b63056b28331e46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-93a096e94e60cee4baa2ee28c119ae32
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-93a096e94e60cee4baa2ee28c119ae32
+    projectPath: Temp\UnityTempFile-93a096e94e60cee4baa2ee28c119ae32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-95255c08da3f08d40ac72aeca2b5d242
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-95255c08da3f08d40ac72aeca2b5d242
+    projectPath: Temp\UnityTempFile-95255c08da3f08d40ac72aeca2b5d242
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-961a4b253b10b6c4e895f7533f9cc272
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-961a4b253b10b6c4e895f7533f9cc272
+    projectPath: Temp\UnityTempFile-961a4b253b10b6c4e895f7533f9cc272
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9baf192b0c06c894abe63ce00c550998
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-9baf192b0c06c894abe63ce00c550998
+    projectPath: Temp\UnityTempFile-9baf192b0c06c894abe63ce00c550998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f0b310c9b5ac91409a5bb082c1314dd
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-9f0b310c9b5ac91409a5bb082c1314dd
+    projectPath: Temp\UnityTempFile-9f0b310c9b5ac91409a5bb082c1314dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a4751b20db30e994d9b23e7fdb0278f5
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-a4751b20db30e994d9b23e7fdb0278f5
+    projectPath: Temp\UnityTempFile-a4751b20db30e994d9b23e7fdb0278f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a5c7215806517164e90be1e105d70ac4
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-a5c7215806517164e90be1e105d70ac4
+    projectPath: Temp\UnityTempFile-a5c7215806517164e90be1e105d70ac4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-aa862272476a0d14ab2adebac736de04
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-aa862272476a0d14ab2adebac736de04
+    projectPath: Temp\UnityTempFile-aa862272476a0d14ab2adebac736de04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-acea8f29fc9f4b649ae139535c83d0ae
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-acea8f29fc9f4b649ae139535c83d0ae
+    projectPath: Temp\UnityTempFile-acea8f29fc9f4b649ae139535c83d0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ad4c614c89a094e419b579cb1740acde
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-ad4c614c89a094e419b579cb1740acde
+    projectPath: Temp\UnityTempFile-ad4c614c89a094e419b579cb1740acde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-af9b5104a5cffe74bbe463b41e778af1
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-af9b5104a5cffe74bbe463b41e778af1
+    projectPath: Temp\UnityTempFile-af9b5104a5cffe74bbe463b41e778af1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b75d2112403fda4498e86b07965ce90a
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-b75d2112403fda4498e86b07965ce90a
+    projectPath: Temp\UnityTempFile-b75d2112403fda4498e86b07965ce90a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b783f812cc2cb57459daa4e92102c159
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-b783f812cc2cb57459daa4e92102c159
+    projectPath: Temp\UnityTempFile-b783f812cc2cb57459daa4e92102c159
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bf43af7cbd2678945bfeb53b8b9dd5a6
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-bf43af7cbd2678945bfeb53b8b9dd5a6
+    projectPath: Temp\UnityTempFile-bf43af7cbd2678945bfeb53b8b9dd5a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bfc4d0319a6c1e640bd6e27e83400e20
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-bfc4d0319a6c1e640bd6e27e83400e20
+    projectPath: Temp\UnityTempFile-bfc4d0319a6c1e640bd6e27e83400e20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c117821160f1e0f4585a6a0c9affe336
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-c117821160f1e0f4585a6a0c9affe336
+    projectPath: Temp\UnityTempFile-c117821160f1e0f4585a6a0c9affe336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c6b1bdcdc49397f4ea2efae0b364079a
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-c6b1bdcdc49397f4ea2efae0b364079a
+    projectPath: Temp\UnityTempFile-c6b1bdcdc49397f4ea2efae0b364079a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c905a8fe9b4b713418f0028a7795c7f0
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-c905a8fe9b4b713418f0028a7795c7f0
+    projectPath: Temp\UnityTempFile-c905a8fe9b4b713418f0028a7795c7f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cd805d94db29d9e4784980b44d311a6a
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-cd805d94db29d9e4784980b44d311a6a
+    projectPath: Temp\UnityTempFile-cd805d94db29d9e4784980b44d311a6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d322bf36145dc6440880406e912d09ea
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-d322bf36145dc6440880406e912d09ea
+    projectPath: Temp\UnityTempFile-d322bf36145dc6440880406e912d09ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d3624f25fab979c48a012f646adb6fac
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-d3624f25fab979c48a012f646adb6fac
+    projectPath: Temp\UnityTempFile-d3624f25fab979c48a012f646adb6fac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-da803417dae389a43822b63c53d9ffd7
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-da803417dae389a43822b63c53d9ffd7
+    projectPath: Temp\UnityTempFile-da803417dae389a43822b63c53d9ffd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e3936b058054a6543a87086384208be8
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-e3936b058054a6543a87086384208be8
+    projectPath: Temp\UnityTempFile-e3936b058054a6543a87086384208be8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e8303fe216ed8584791fd8cfc664dd88
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-e8303fe216ed8584791fd8cfc664dd88
+    projectPath: Temp\UnityTempFile-e8303fe216ed8584791fd8cfc664dd88
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f264b1d70488c48498d470cb2de2f857
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-f264b1d70488c48498d470cb2de2f857
+    projectPath: Temp\UnityTempFile-f264b1d70488c48498d470cb2de2f857
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f908ae48374ccbd428a8c51bd6e88a35
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-f908ae48374ccbd428a8c51bd6e88a35
+    projectPath: Temp\UnityTempFile-f908ae48374ccbd428a8c51bd6e88a35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ff896d5a35a15354a869edf531aebd5c
+    fullPath: C:\Users\ozan\Desktop\ProgramDosyalari\Unity\aareplica\Temp\UnityTempFile-ff896d5a35a15354a869edf531aebd5c
+    projectPath: Temp\UnityTempFile-ff896d5a35a15354a869edf531aebd5c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
